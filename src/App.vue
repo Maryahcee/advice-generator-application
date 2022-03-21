@@ -9,6 +9,12 @@
       </div>
     </div>
   </div>
+  <footer class="bg-emerald-100 p-5">
+      <div class="flex justify-center items-center text-sm">
+        Challenge by <a class="text-rose-700" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+        Coded by <a href="#" >  <span class="text-rose-700"> Mary Njoroge </span></a>.
+      </div>
+  </footer>
 </template>
 
 <script>
