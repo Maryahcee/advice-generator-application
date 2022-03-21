@@ -6,6 +6,9 @@ module.exports = {
     extend: {
       colors: {
         'darker-green': '#52ffab',
+      },
+      screens: {
+        'small': {'raw': '(max-width: 768px)'}
       }
     },
     container: {
