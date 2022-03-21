@@ -1,4 +1,4 @@
-<template >
+<template>
   <div class="grid grid-cols-1 h-screen text-center place-content-center bg-cyan-900  p-2">
       <div class="container flex justify-center items-center mx-auto  box-border lg:w-96 h-74 sm:w-32 md:w-80 small:w-80 rounded-lg bg-cyan-700 ">
         <div class="min-w-full  font-extrabold p-5 flex flex-col justify-center items-center ">
@@ -60,6 +60,10 @@ export default {
     
 
 <style>
+body {
+  background-color:  rgb(22 78 99);
+}
+
 .container {
   font-family: 'Manrope', Mono;
 }
