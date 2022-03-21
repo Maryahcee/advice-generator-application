@@ -9,7 +9,7 @@ module.exports = {
       },
       screens: {
         'small': {'raw': '(max-width: 768px)'}
-      }
+      },
     },
     container: {
       center: true,
