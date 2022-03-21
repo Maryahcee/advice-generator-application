@@ -10,7 +10,7 @@
     </div>
   </div>
   <footer class="bg-emerald-100  lg:p-5 sm:p-3 fixed inset-x-0
-             bottom-0 sm:text-xs  sm:font-thin sm:tracking-tighter">
+             bottom-0 sm:text-xs text-xl tracking-tight font-normal sm:font-thin sm:tracking-tighter">
       <div class="p-4 sm:p-1 md:p-3 text-center text-sm">
         Challenge by <a class="text-rose-700" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
         Coded by <a href="#" >  <span class="text-rose-700"> Mary Njoroge </span></a>.
