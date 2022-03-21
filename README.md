@@ -66,21 +66,44 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/Maryahcee/base-aparrell-frontend)
-- Live Site URL: [Live site URL here](https://coming-soon-a994f9.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/Maryahcee/advice-generator-application)
+- Live Site URL: [Live site URL here](https://6238a59f89860f0535030680--inspiring-turing-e0816d.netlify.app/)
 
 ## My process
 
 -Install Vue CLI
--create components as per card using desktop first approach
--Used vanilla css to style my card
+-create components as per card using mobile first approach
+-Used Tailwind Css to style my card
 -hosted the site using netlify
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Tailwind CSS
 - Flexbox
 - Mobile-first workflow
 - [Vuejs](https://vuejs.org/) - Vuejs framework
 - [Styled Components](https://styled-components.com/) - For styles
+
+### What I learned
+
+This project has helped me learn Tailwind Css media queries were challenging and also adding linear gradient colors.
+I used Axios to get the API which was something new to me.
+
+### Continued development
+
+I am currently learning VueJs framework and in this project I reinforced some data sharing skills between components.
+I used Props to share data from parent to child. I also learnt that it's possible to share data from child to parent using( $emmit) method.
+
+### Useful resources
+
+- [Example resource 1](https://tailwindcss.com/) - This helped me for look up the tailwind syntax for media queries and colors to style the page.
+- [Example resource 2](https://vuejs.org/api/ssr.html#server-side-rendering-api) - This is an amazing Vue site which helped me finally understand how to fetch API. I'd recommend it to anyone still learning this concept.
+
+## Author
+
+- Frontend Mentor - [@Maryahcee](https://www.frontendmentor.io/profile/Maryahcee)
+
+## Acknowledgments
+
+Great thanks to Harrison Kimani for great help throughtout the project. I couldn't have done it easily without you. Cheers!
