@@ -1,6 +1,6 @@
 <template>
   <div class="grid grid-cols-1 h-screen text-center place-content-center bg-cyan-900  p-2">
-      <div class="container flex justify-center items-center mx-auto  box-border lg:w-96 h-74 sm:w-32 md:w-80 small:w-80 rounded-lg bg-cyan-700 ">
+      <div class="container font-manrope flex justify-center items-center mx-auto  box-border lg:w-96 h-74 sm:w-32 md:w-80 small:w-80 rounded-lg bg-cyan-700 ">
         <div class="min-w-full  font-extrabold p-5 flex flex-col justify-center items-center ">
         <heading :advice="advice"/>
         <quotes :advice="advice"/>
@@ -10,8 +10,9 @@
     </div>
   </div>
   <footer class="bg-emerald-100  lg:p-5 sm:p-3 fixed inset-x-0
-             bottom-0 sm:text-xs text-xl tracking-tight font-normal sm:font-thin sm:tracking-tighter">
-      <div class="p-4 sm:p-1 md:p-3 text-center text-sm">
+             bottom-0  text-2xl tracking-normal font-normal sm:text-xs
+             sm:font-thin sm:tracking-tighter">
+      <div class="p-4 sm:p-1 md:p-3 text-center text-sm font-manrope">
         Challenge by <a class="text-rose-700" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
         Coded by <a href="#" >  <span class="text-rose-700"> Mary Njoroge </span></a>.
       </div>
@@ -64,9 +65,7 @@ body {
   background-color:  rgb(22 78 99);
 }
 
-.container {
-  font-family: 'Manrope', Mono;
-}
+
 
 .bg-circle {
   background: linear-gradient(90deg, hsl(151, 100%, 66%), hsl(151, 92%, 60%));
