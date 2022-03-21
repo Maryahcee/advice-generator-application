@@ -67,7 +67,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/Maryahcee/advice-generator-application)
-- Live Site URL: [Live site URL here](https://6238a59f89860f0535030680--inspiring-turing-e0816d.netlify.app/)
+- Live Site URL: [Live site URL here](https://inspiring-turing-e0816d.netlify.app/)
 
 ## My process
 
