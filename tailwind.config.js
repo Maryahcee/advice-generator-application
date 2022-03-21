@@ -10,6 +10,9 @@ module.exports = {
       screens: {
         'small': {'raw': '(max-width: 768px)'}
       },
+      fontFamily: {
+        'manrope': ['manrope', 'Mono']
+      },
     },
     container: {
       center: true,
