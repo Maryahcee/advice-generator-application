@@ -1,6 +1,6 @@
 <template >
-  <div class="grid grid-cols-1 h-screen text-center place-content-center bg-cyan-900 md:max-p-md p-2">
-      <div class="container flex justify-center items-center mx-auto  box-border lg:w-96 h-74 sm:w-32 md:w-60 rounded-lg bg-cyan-700 ">
+  <div class="grid grid-cols-1 h-screen text-center place-content-center bg-cyan-900  p-2">
+      <div class="container flex justify-center items-center mx-auto  box-border lg:w-96 h-74 sm:w-32 md:w-80 small:w-80 rounded-lg bg-cyan-700 ">
         <div class="min-w-full  font-extrabold p-5 flex flex-col justify-center items-center ">
         <heading :advice="advice"/>
         <quotes :advice="advice"/>
