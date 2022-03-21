@@ -1,7 +1,7 @@
 <template>
  <div>
      <div>
-         <span class=" pt-6 quotes text-2xl text-center">
+         <span class=" pt-6 quotes text-2xl text-center text-slate-100">
             "{{ advice.content }}"
          </span>
          
@@ -17,8 +17,3 @@ props: ['advice'],
 }
 </script>
 
-<style>
-.quotes{
-    color: hsl(193, 38%, 86%)
-}
- </style>
